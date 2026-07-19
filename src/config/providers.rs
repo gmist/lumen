@@ -21,7 +21,7 @@ pub const ALL_PROVIDERS: &[ProviderInfo] = &[
     ProviderInfo {
         id: "apple-intelligence",
         provider_type: ProviderType::AppleIntelligence,
-        display_name: "Apple Intelligence",
+        display_name: "Apple Intelligence (local)",
         default_model: "",
         env_key: "",
     },

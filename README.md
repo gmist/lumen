@@ -278,6 +278,7 @@ export LUMEN_AI_MODEL="gpt-5-mini"
 | [xAI](https://x.ai/) `xai` | Yes | `grok-4`, `grok-4-mini`, `grok-4-mini-fast` (default: `grok-4-mini-fast`) |
 | [OpenCode Zen](https://opencode.ai/docs/zen) `opencode-zen` | Yes | [see list](https://opencode.ai/docs/zen#models) (default: `claude-sonnet-4-5`) |
 | [Ollama](https://github.com/ollama/ollama) `ollama` | No (local) | [see list](https://ollama.com/library) (default: `llama3.2`) |
+| [Apple Intelligence](https://www.apple.com/apple-intelligence/) `apple-intelligence` | No (local) | `Apple Intelligence` ([see requirements](#platform-requirements))|
 | [OpenRouter](https://openrouter.ai/) `openrouter` | Yes | [see list](https://openrouter.ai/models) (default: `anthropic/claude-sonnet-4.5`) |
 | [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) `vercel` | Yes | [see list](https://vercel.com/docs/ai-gateway/supported-models) (default: `anthropic/claude-sonnet-4.5`) |
 
